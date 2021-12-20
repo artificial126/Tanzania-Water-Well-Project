@@ -18,13 +18,14 @@ If a water point needs repair or why is not functional and what features affect 
 
 The dataset provided on https://www.drivendata.org by **Taarifa** and the **Tanzanian Ministry of Water**.
 Dataset has 59,400 entries and 40 columns and after preparing data to modeling we have 168 features.
-    We have data from 1960 to 2013 with different funders at 21 different regions in Tanzania. ​
 
-    Also it has water quality as ; soft and bad with waterpoint type as; communal pipe, hand pump etc.    ​
+    We have data from 1960 to 2013 with different funders at 21 different regions in Tanzania. 
 
-    We have the quantity of the water source as enough, insufficient,dry and seasonal,​
+    Also it has water quality as ; soft and bad with waterpoint type as; communal pipe, hand pump etc.    
 
-    with source type as spring, shallow well, etc.​
+    We have the quantity of the water source as enough, insufficient,dry and seasonal,
+
+    with source type as spring, shallow well, etc.
     
 ## Exploratory Data Analysis(EDA)
 
