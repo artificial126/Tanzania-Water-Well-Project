@@ -13,3 +13,19 @@ Almost half the population of Tanzania is without basic access to safe water. Al
 
 In this model, aim is the predict **functionality** of water points. This will help Tanzania Government for future work.
 If a water point needs repair or why is not functional and what features affect functionality. With this model, we can help the Tanzanian authorities how to use water sources in a productive way.
+
+## Dataset
+
+The dataset provided on https://www.drivendata.org by **Taarifa** and the **Tanzanian Ministry of Water**.
+Dataset has 59,400 entries and 40 columns and after preparing data to modeling we have 168 features.
+    We have data from 1960 to 2013 with different funders at 21 different regions in Tanzania. ​
+
+    Also it has water quality as ; soft and bad with waterpoint type as; communal pipe, hand pump etc.    ​
+
+    We have the quantity of the water source as enough, insufficient,dry and seasonal,​
+
+    with source type as spring, shallow well, etc.​
+    
+## Exploratory Data Analysis(EDA)
+
+Data has 
