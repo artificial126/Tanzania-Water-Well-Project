@@ -38,3 +38,8 @@ Our target variable(status_group)'s frequency is ;
 ## Features 
 
 ![Water Quality with Functionality](./images/water_quality.jpg)
+
+As we processed our water quality values as soft(convenient) and bad(not usable). It seems convenient water quality points needs improvement, because there is a big portion of non-functional water points. 
+
+
+![Water Point Type](./images/quantity.jpg)
