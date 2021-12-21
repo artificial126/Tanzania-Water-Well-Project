@@ -37,4 +37,29 @@ Our target variable(status_group)'s frequency is ;
 
 ## Features 
 
-![Water Quality with Functionality](./images/water quality.png)
+### Quality
+![Water Quality with Functionality](./images/water_quality.jpg)
+
+As we processed our water quality values as soft(convenient) and bad(not usable). It seems convenient water quality points needs improvement, because there is a big portion of non-functional water points. 
+
+### Quantity
+
+![Water Point Type](./images/quantity.jpg)
+
+Communal standpipe and hand pump mostly preferred.
+
+Communal standpipes with multiple types and others(dam,cattle trough) have mostly non-functional water points.
+
+
+### Regions 
+
+![Regions](./images/regions.jpg)
+
+We can easily see the region which has mostly functional water points has the highest number of water point.
+
+On the other hand less water point regions have mostly non-functinoal water points.
+
+
+### Findings
+
+![Findings](./images/findings.jpg)
