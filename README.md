@@ -62,4 +62,4 @@ On the other hand less water point regions have mostly non-functinoal water poin
 
 ### Findings
 
-![Findings](./images/findings.jpg)
+![Findings](./images/images/feature importances.jpg)
