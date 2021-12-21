@@ -70,7 +70,8 @@ This is our most important features; as our model predicted longitude,latitude m
 
 ## Modeling 
 
-The main metric that I would be using to assess my models' performance here is **F-1 Score**. Also , I would be looking at **Recall Score**.
+The main metric that I would be using to assess my models' performance here is `F-1 Score`. F-1 score explain how good the quality of predictions are and how completely we've predicted labels from dataset.  We wouldn't look at accuracy score because it would be misleading for our specific project. Because accuracy generally good for balanced classes and if both classes importances the same. We are goin to look at **F-1 Score** because it is harmonic mean of precision and recall scores what exactly need for this project. Which is for this project `0 Non-Functional` class important for us.
+
 
 ### Pipeline
 
@@ -87,3 +88,19 @@ As we can see best results at Random Forest and Gradient Boosting Scores.
 
 #### Random Forest 
 
+![Forest_Metrics](./images/rf_metrics.jpg)
+
+#### Gradient Boosting
+
+![Gradient_Boosting](./images/gb_metrics.jpg)
+
+
+At these confusion metrics `1` is `Non-functional` and `0` is `Functional` water points. We did these feature engineering because we wanted to focus on non-functional water points to make them functional or to find why they are non-functional. 
+
+## Future Step
+
+    1. Gather better quality data for prediction model.
+
+    2. Bring together old and new data for preparing for modeling.
+
+    3. Work on models to predict better.
