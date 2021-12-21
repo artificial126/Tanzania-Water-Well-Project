@@ -94,4 +94,4 @@ As we can see best results at Random Forest and Gradient Boosting Scores.
 ![Gradient_Boosting](./images/gb_metrics.jpg)
 
 
-At these confusion metrics 1 is `Non-functional` and 0 is `Functional` water points.
+At these confusion metrics `1` is `Non-functional` and `0` is `Functional` water points. We did these feature engineering because we wanted to focus on non-functional water points to make them functional or to find why they are non-functional. 
