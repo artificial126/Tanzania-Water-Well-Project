@@ -45,3 +45,12 @@ As we processed our water quality values as soft(convenient) and bad(not usable)
 ### Quantity
 
 ![Water Point Type](./images/quantity.jpg)
+
+Communal standpipe and hand pump mostly preferred.
+
+Communal standpipes with multiple types and others(dam,cattle trough) have mostly non-functional water points.
+
+
+### Regions 
+
+![Regions](./images/regions.jpg)
