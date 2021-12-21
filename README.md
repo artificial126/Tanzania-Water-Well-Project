@@ -82,3 +82,8 @@ Used pipeline to make different models for this project. First; preprocessing as
     4. Gradient Boosting Score         : 0.79
  
 Also used grid search for models to find best parameters and getting better score.
+
+As we can see best results at Random Forest and Gradient Boosting Scores.
+
+#### Random Forest 
+
