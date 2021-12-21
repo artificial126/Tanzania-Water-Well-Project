@@ -37,4 +37,4 @@ Our target variable(status_group)'s frequency is ;
 
 ## Features 
 
-![Water Quality with Functionality](./images/water quality.png)
+![Water Quality with Functionality](./images/water_quality.jpg)
