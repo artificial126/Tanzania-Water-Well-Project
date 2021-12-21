@@ -92,3 +92,6 @@ As we can see best results at Random Forest and Gradient Boosting Scores.
 #### Gradient Boosting
 
 ![Gradient_Boosting](./images/gb_metrics.jpg)
+
+
+At these confusion metrics 1 is `Non-functional` and 0 is `Functional` water points.
