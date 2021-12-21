@@ -63,3 +63,21 @@ On the other hand less water point regions have mostly non-functinoal water poin
 ### Findings
 
 ![Findings](./images/findings.jpg)
+
+
+This is our most important features; as our model predicted longitude,latitude most important features. After those, in order dry water quantity and enough water quantity comes. 
+
+
+## Modeling 
+
+The main metric that I would be using to assess my models' performance here is **F-1 Score**. Also , I would be looking at **Recall Score**.
+
+### Pipeline
+
+Used pipeline to make different models for this project. First; preprocessing as ohe(OneHotEncoder) for categorical columns and scaling(StandartScaler) for numerical columns. And then used ColumnTransformer. Next step is model;
+    1. Logistic Regression Model Score : 0.72
+    2. KNeighbors Classifier Score     : 0.77
+    3. Random Forest Score             : 0.79
+    4. Gradient Boosting Score         : 0.79
+ 
+Also used grid search for models to find best parameters and getting better score.
