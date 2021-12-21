@@ -87,3 +87,4 @@ As we can see best results at Random Forest and Gradient Boosting Scores.
 
 #### Random Forest 
 
+![Forest_Metrics](./images/rf_metrics.jpg)
