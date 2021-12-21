@@ -29,4 +29,11 @@ Dataset has 59,400 entries and 40 columns and after preparing data to modeling w
     
 ## Exploratory Data Analysis(EDA)
 
-Data has 
+Our target variable(status_group)'s frequency is ;
+
+    functional                 0.54304
+    non functional             0.38429
+    functional needs repair    0.07267
+
+## Features 
+
