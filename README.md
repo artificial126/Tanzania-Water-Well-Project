@@ -96,3 +96,11 @@ As we can see best results at Random Forest and Gradient Boosting Scores.
 
 
 At these confusion metrics `1` is `Non-functional` and `0` is `Functional` water points. We did these feature engineering because we wanted to focus on non-functional water points to make them functional or to find why they are non-functional. 
+
+## Future Step
+
+    1. Gather better quality data for prediction model.
+
+    2. Bring together old and new data for preparing for modeling.
+
+    3. Work on models to predict better.
