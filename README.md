@@ -58,3 +58,8 @@ Communal standpipes with multiple types and others(dam,cattle trough) have mostl
 We can easily see the region which has mostly functional water points has the highest number of water point.
 
 On the other hand less water point regions have mostly non-functinoal water points.
+
+
+### Findings
+
+![Findings](./images/findings.jpg)
