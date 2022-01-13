@@ -1,0 +1,8 @@
+- conclusion slide , 21 percent not crorrect , model name , namew metrics 
+- stacked bar chart , Titles , lwoer cases 
+- what are they care about ? (as a team)
+- 200 construction to missing 
+- function for categorical 
+- water quality 
+- log reg for f-1
+- class report 
